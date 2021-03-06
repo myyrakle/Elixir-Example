@@ -16,3 +16,10 @@ IO.puts 10 > 5
 IO.puts 10 < 5
 IO.puts 13 >= 5
 IO.puts 13 <= 5
+
+IO.puts true and true
+IO.puts true && true
+IO.puts false or true
+IO.puts false || true
+IO.puts not true
+IO.puts !true
