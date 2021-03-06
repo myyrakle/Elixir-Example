@@ -23,3 +23,6 @@ IO.puts false or true
 IO.puts false || true
 IO.puts not true
 IO.puts !true
+
+IO.puts 5 in [1, 3, 5]
+IO.puts 6 not in [1, 3]
