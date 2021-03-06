@@ -7,3 +7,12 @@ IO.puts rem(10, 3) #나머지셈
 
 IO.inspect [3, 4] ++ [5, 1] #리스트 연결
 IO.inspect [1, 2, 3, 4] -- [1] # 리스트 뺄셈
+
+IO.puts 10 == 10.0
+IO.puts 10 != "10"
+IO.puts 10 === 10.0
+IO.puts 10 !== 10.0
+IO.puts 10 > 5
+IO.puts 10 < 5
+IO.puts 13 >= 5
+IO.puts 13 <= 5
